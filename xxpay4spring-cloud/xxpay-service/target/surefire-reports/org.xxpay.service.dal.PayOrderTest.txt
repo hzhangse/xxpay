@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.xxpay.service.dal.PayOrderTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in org.xxpay.service.dal.PayOrderTest
+payOrder(org.xxpay.service.dal.PayOrderTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at org.xxpay.service.dal.PayOrderTest.payOrder(PayOrderTest.java:57)
+

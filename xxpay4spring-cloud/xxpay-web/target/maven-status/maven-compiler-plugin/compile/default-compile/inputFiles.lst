@@ -1,0 +1,6 @@
+/home/ryan/git/xxpay-master/xxpay4spring-cloud/xxpay-web/src/main/java/org/xxpay/web/service/PayOrderServiceClient.java
+/home/ryan/git/xxpay-master/xxpay4spring-cloud/xxpay-web/src/main/java/org/xxpay/XxPayWebApplication.java
+/home/ryan/git/xxpay-master/xxpay4spring-cloud/xxpay-web/src/main/java/org/xxpay/web/controller/PayOrderController.java
+/home/ryan/git/xxpay-master/xxpay4spring-cloud/xxpay-web/src/main/java/org/xxpay/web/service/PayChannelServiceClient.java
+/home/ryan/git/xxpay-master/xxpay4spring-cloud/xxpay-web/src/main/java/org/xxpay/web/controller/QueryPayOrderController.java
+/home/ryan/git/xxpay-master/xxpay4spring-cloud/xxpay-web/src/main/java/org/xxpay/web/service/MchInfoServiceClient.java

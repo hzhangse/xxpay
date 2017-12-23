@@ -1,0 +1,9 @@
+/home/ryan/git/xxpay-master/xxpay4dubbo/xxpay4dubbo-api/src/main/java/org/xxpay/dubbo/api/service/IMchInfoService.java
+/home/ryan/git/xxpay-master/xxpay4dubbo/xxpay4dubbo-api/src/main/java/org/xxpay/dubbo/api/service/IPayChannel4AliService.java
+/home/ryan/git/xxpay-master/xxpay4dubbo/xxpay4dubbo-api/src/main/java/org/xxpay/dubbo/api/service/IRefundOrderService.java
+/home/ryan/git/xxpay-master/xxpay4dubbo/xxpay4dubbo-api/src/main/java/org/xxpay/dubbo/api/service/IMchNotifyService.java
+/home/ryan/git/xxpay-master/xxpay4dubbo/xxpay4dubbo-api/src/main/java/org/xxpay/dubbo/api/service/INotifyPayService.java
+/home/ryan/git/xxpay-master/xxpay4dubbo/xxpay4dubbo-api/src/main/java/org/xxpay/dubbo/api/service/ITransOrderService.java
+/home/ryan/git/xxpay-master/xxpay4dubbo/xxpay4dubbo-api/src/main/java/org/xxpay/dubbo/api/service/IPayChannelService.java
+/home/ryan/git/xxpay-master/xxpay4dubbo/xxpay4dubbo-api/src/main/java/org/xxpay/dubbo/api/service/IPayChannel4WxService.java
+/home/ryan/git/xxpay-master/xxpay4dubbo/xxpay4dubbo-api/src/main/java/org/xxpay/dubbo/api/service/IPayOrderService.java

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.xxpay.service.dal.MchInfoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.555 sec <<< FAILURE! - in org.xxpay.service.dal.MchInfoTest
+addMchInfo(org.xxpay.service.dal.MchInfoTest)  Time elapsed: 0.182 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at org.xxpay.service.dal.MchInfoTest.addMchInfo(MchInfoTest.java:44)
+
